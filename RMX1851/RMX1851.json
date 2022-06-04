@@ -1,13 +1,13 @@
 {
-  "response": [    
+"response": [
 {
-      "datetime": 1653988906,
-      "filename": "PixelBlaster-5.1-RMX1851-Gapps-OFFICIAL-20220531-1111.zip",
-      "id": "33398c33d392a7f39338198235fe8f9a",
-      "romtype": "OFFICIAL",  
-      "size": 1724838148,
-      "url": "https://index.thetablaster.workers.dev/0:/PixelBlaster-5.1-RMX1851-Gapps-OFFICIAL-20220531-1111.zip",
-      "version": "5.1"
-    }
+"datetime": 1654273680,
+"filename": "PixelBlaster-5.2-RMX1851-Gapps-OFFICIAL-20220604-0824.zip",
+"id": "b1331e9e3cad25f45955a1c81cc30c21", 
+"romtype": "OFFICIAL", 
+"size": 1724179730, 
+"url": "https://github.com/PixelBlaster-Releases/RMX1851/releases/download/v5.2/PixelBlaster-5.2-RMX1851-Gapps-OFFICIAL-20220604-0824.zip", 
+"version": "5.2"
+}
         ]
 }
